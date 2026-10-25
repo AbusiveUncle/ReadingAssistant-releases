@@ -7,6 +7,18 @@ an installer for a new PC or to go back to an earlier version.
 <!-- The text under each "## vX" heading is what the app shows under "What's new" for that version.
      This file is copied to the releases repository by the build when a version is published. -->
 
+## v0.1.16
+
+- Tab types: each tab is a Reading list, an Archive (storage: no counters or Next up; "Start reading" moves a document to a reading tab) or a Journal club / Course (a date per paper; Next up and "Coming up" follow the dates; overdue in orange). Choose in "+ New tab" or the tab's ▾ menu.
+- Inbox (Settings → Inbox, off unless you switch it on): new files wait in an Inbox tab; file each one in a tab, group and subgroup with Send, or Archive, Remove or Later.
+- Journals tab (Settings → Journals tab): quick links to the journals and sites you read, grouped your way, with suggestions from your own papers' journals and publishers.
+- Search in the open paper: Ctrl+F or "Find" in the reader, with "3 of 12" and ↑ ↓.
+- New status "Read abstract" (teal), counted as progress.
+- "To cite" / "Cited" marks for your own writing, a filter for them, and a one-click formatted reference list.
+- Tags from the papers' keywords (Settings → Tags, off unless you switch it on), coloured automatically.
+- Reader: a » / « button and an arrow on the panel's edge fold the notes away.
+- Reading time is also kept per day (for statistics and goals later).
+
 ## v0.1.15
 
 - Subgroups without Details: "+ Subgroup" on each group makes one straight away (it stays while empty), and you can drag a subgroup's header onto another group to move it there with its papers.
