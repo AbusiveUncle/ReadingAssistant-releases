@@ -4,6 +4,14 @@ Every version of Reading Assistant by Uncle, newest first. Download the installe
 from the Releases page (the newest is always at the top). The app updates itself, so you only need
 an installer for a new PC or to go back to an earlier version.
 
+<!-- The text under each "## vX" heading is what the app shows under "What's new" for that version.
+     This file is copied to the releases repository by the build when a version is published. -->
+
+## v0.1.14
+
+- The sort menu and the Next up menu are easier to read (normal text, also in the open list).
+- "Duplicate" only shows when the same article is twice in the same tab; having it in two tabs is fine.
+
 ## v0.1.13
 
 - Next up can pick in different ways: list order, key papers first, shortest first, newest added, newest published, or "surprise me". "Skip ›" shows the next suggestion.
