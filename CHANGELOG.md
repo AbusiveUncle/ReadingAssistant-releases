@@ -7,6 +7,14 @@ an installer for a new PC or to go back to an earlier version.
 <!-- The text under each "## vX" heading is what the app shows under "What's new" for that version.
      This file is copied to the releases repository by the build when a version is published. -->
 
+## v0.1.15
+
+- Subgroups without Details: "+ Subgroup" on each group makes one straight away (it stays while empty), and you can drag a subgroup's header onto another group to move it there with its papers.
+- Reader: "Dark pages" for reading in the evening; highlights keep their colour.
+- Reading time: the app counts how long each paper is open in the reader (while you are there) and shows it on the paper, e.g. "⏱ 25 min".
+- Details says "Subgroup" instead of "Subtopic".
+- Fix: a drop could get lost if the list updated itself in the middle of a drag.
+
 ## v0.1.14
 
 - The sort menu and the Next up menu are easier to read (normal text, also in the open list).
