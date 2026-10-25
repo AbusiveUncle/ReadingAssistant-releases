@@ -7,6 +7,11 @@ an installer for a new PC or to go back to an earlier version.
 <!-- The text under each "## vX" heading is what the app shows under "What's new" for that version.
      This file is copied to the releases repository by the build when a version is published. -->
 
+## v0.1.17
+
+- The Inbox and Journals tabs can be dragged to any place in the tab bar, like your own tabs. By default the Journals tab sits at the far right.
+- The version number is shown in the header.
+
 ## v0.1.16
 
 - Tab types: each tab is a Reading list, an Archive (storage: no counters or Next up; "Start reading" moves a document to a reading tab) or a Journal club / Course (a date per paper; Next up and "Coming up" follow the dates; overdue in orange). Choose in "+ New tab" or the tab's ▾ menu.
