@@ -7,6 +7,19 @@ an installer for a new PC or to go back to an earlier version.
 <!-- The text under each "## vX" heading is what the app shows under "What's new" for that version.
      This file is copied to the releases repository by the build when a version is published. -->
 
+## v0.1.24
+
+### New
+- **Statistics page:** "📊 Statistics" next to Settings looks back at your reading: papers read, skimmed and abstracts per week or month, reading time per day or week, your streaks and the weekdays you read on, your most-used tags and biggest groups, and the links you open most (and never). Only reading tabs count.
+- **Journal timer:** opening a link from the Links tab starts a timer at the top of the tab, for skimming a journal's new titles. "+1 min" and "Stop" are there; when it runs out a soft chime plays and the app comes to the front. Choose the length in Settings → Links tab (Off, 2, 5, 10 or 15 minutes; 5 to start with).
+- **Three new looks:** Paper (warm white with no boxes, a black main button), Ink (near-black and flat, a white main button) and Mono (grey and white, plain black-and-white controls). Pick one in Settings → Look.
+- **Compact list:** a switch in Settings → Look that works with any look. Each paper takes one line, buttons are smaller, and badges and tags show when you point at a paper (warnings like "No DOI found" always show), so about twice as many papers fit on screen.
+- **Pause your streak:** Settings → Streak & games has a Pause button for holidays and sick days; paused days neither count nor break the streak. Press Resume when you're back.
+- **Weekends off:** "Weekends don't break the streak" makes Saturday and Sunday free; reading on them still adds to the streak.
+
+### Improved
+- **Streak settings** explain what makes a day count, and "Show the daily streak" hides the 🔥 if you'd rather not see it (it keeps counting).
+
 ## v0.1.23
 
 ### New
