@@ -7,6 +7,21 @@ an installer for a new PC or to go back to an earlier version.
 <!-- The text under each "## vX" heading is what the app shows under "What's new" for that version.
      This file is copied to the releases repository by the build when a version is published. -->
 
+## v0.1.23
+
+### New
+- **Claude can organise your library (level 2):** with your permission, Claude can file the Inbox, make and rename groups and subgroups, move papers, add tags, write in notes, set reading status, set up games and add links. Switch it on in Settings → Claude → "Allow Claude to change things", and choose which kinds of change are allowed. Claude can't delete papers, files or tabs.
+- **Undo for Claude's changes:** every change shows at the bottom of the window as it happens ("Claude filed 12 papers from the Inbox") with an Undo button, and the list updates by itself.
+
+### Improved
+- **Recent activity** in Settings → Claude also lists what Claude changed.
+
+### Bug fixes
+- **Long titles** in the Archive's "Recently added" list now wrap inside the box.
+- **Titles with code in them** from online references (like "<i>via</i>") now show as plain text.
+
+**After updating:** install the Claude extension once more (Settings → Claude → Make the Claude extension), so Claude Desktop knows which tools change things.
+
 ## v0.1.22
 
 ### New
