@@ -7,6 +7,19 @@ an installer for a new PC or to go back to an earlier version.
 <!-- The text under each "## vX" heading is what the app shows under "What's new" for that version.
      This file is copied to the releases repository by the build when a version is published. -->
 
+## v0.1.21
+
+Games (beta), round two:
+
+- Free days: a day game can allow 1 or 2 missed days a week without breaking the streak.
+- Clearer cards: "2 left today" or "Done today ✓". Pinned games come first, then running, done and paused ones; ended games fold away.
+- The Games tab shows your points, with a chart of points per week.
+- Building a game: what counts is sorted into Reading, Working, Library and Links.
+- Forgotten links: links you rarely open are worth more and are suggested first ("Visit next · +7").
+- Games are counted only when something changes, so they stay fast as your history grows.
+- Tidier tab menu: the tab type has its own section and Delete sits at the bottom. Rename with ✎ and move a tab by dragging it.
+- Fixed: closing the reader while pages were still loading could leave an error behind.
+
 ## v0.1.20
 
 Games (beta) – the big new feature, switched on in Settings → Streak & games.
