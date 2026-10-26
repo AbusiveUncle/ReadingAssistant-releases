@@ -7,6 +7,13 @@ an installer for a new PC or to go back to an earlier version.
 <!-- The text under each "## vX" heading is what the app shows under "What's new" for that version.
      This file is copied to the releases repository by the build when a version is published. -->
 
+## v0.1.18
+
+- The Journals tab sits on its own at the far right of the tab bar, after "+ New tab".
+- Streak: the stats row shows how many days in a row you have read (🔥). A day counts with some minutes in the reader (Settings → Streak, 10 by default) or a paper set to Read, Skimmed, Read abstract or Re-read.
+- Oldest unread: the stats row shows how long your oldest unread paper has waited; click it to go there. Finishing a paper that waited 30 days or more gets a 🎉.
+- Journals tab: how many of your links you visited this month, the ones not visited for the longest, and when each link was last opened.
+
 ## v0.1.17
 
 - The Inbox and Journals tabs can be dragged to any place in the tab bar, like your own tabs. By default the Journals tab sits at the far right.
