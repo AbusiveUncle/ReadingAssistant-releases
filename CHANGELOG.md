@@ -7,6 +7,24 @@ an installer for a new PC or to go back to an earlier version.
 <!-- The text under each "## vX" heading is what the app shows under "What's new" for that version.
      This file is copied to the releases repository by the build when a version is published. -->
 
+## v0.1.22
+
+### New
+- **Claude in the Reading Assistant (read only):** let Claude read your library from the Claude Desktop app – your tabs and groups, the papers' text, your notes and highlights. Ask it to summarise a paper, compare a group or find common ground. Set it up in Settings → Claude → "Make the Claude extension", then drag the file into Claude Desktop. Claude can't change anything.
+- **Claude sees what you select and your Inbox:** tick papers in a tab or in the Inbox and ask Claude about "the papers I selected"; Claude can also look through the papers waiting in the Inbox.
+- **Claude permissions:** in Settings → Claude, switch Claude's access on or off, choose what it may see (text, notes, highlights, search, your selection), hide whole tabs from it, and see what it looked at recently.
+- **Inbox list:** everything waiting in the Inbox in a short list under the card. Tick papers, or All, to file, archive or remove them together.
+- **Clickable links in PDFs:** web links and DOIs open in your browser; links inside a paper (references, figures) jump to the right place.
+- **Ctrl + mouse wheel** zooms the PDF in the reader, around the spot under your mouse.
+- **Points bank (Games):** points you've earned are kept for good, also when you change or delete a game.
+
+### Improved
+- **Settings** shows one section at a time: the list at the top works as tabs.
+- **Game builder:** every choice starts with a capital letter.
+
+### Bug fixes
+- **Run-together text in some PDFs** (e.g. "AqueousSynthesisofUiO-66" in some Wiley papers) is now read with proper spaces, so search finds these papers again. Your PDFs are read once more after updating; this takes a moment.
+
 ## v0.1.21
 
 Games (beta), round two:
