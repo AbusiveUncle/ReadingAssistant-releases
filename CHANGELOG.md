@@ -7,6 +7,18 @@ an installer for a new PC or to go back to an earlier version.
 <!-- The text under each "## vX" heading is what the app shows under "What's new" for that version.
      This file is copied to the releases repository by the build when a version is published. -->
 
+## v0.1.20
+
+Games (beta) – the big new feature, switched on in Settings → Streak & games.
+
+- Games: make your own goals in one line, "[5] [abstracts read] [a week] from [tab] [group] [tag]", or start from a ready-made one. Several can run at once, and one thing you do counts for every game it fits. Each game shows its progress, streak and the last periods; it can be paused, edited, deleted (with Undo) and pinned to its tab, where it shows under Next up.
+- Points: 1 for each step towards a goal, a bonus when a goal is met, and a streak bonus for keeping it going.
+- Link games: "forgotten links" (open links you haven't visited for a week or more; extra points the longer they were forgotten, with guards so it can't be looped) and "rounds" (open every link in a group once a week). The Links tab marks which links to visit.
+- An event log keeps what you do (status changes, reading time, highlights, notes, tags, links opened …) in its own small files in your data folder, one per PC and year, so games can count it.
+- The Journals tab is now called Links. Drag links to a new place or group, and rename the headings (Edit, or double-click a heading).
+- Many tabs fit on one row: the names of the other tabs are shortened just enough, and hovering shows the full name.
+- "Read abstract" is now "Abstract read". The "key papers" count is gone from the stats row.
+
 ## v0.1.18
 
 - The Journals tab sits on its own at the far right of the tab bar, after "+ New tab".
