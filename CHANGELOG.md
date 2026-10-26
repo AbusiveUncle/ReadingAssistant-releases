@@ -7,6 +7,15 @@ an installer for a new PC or to go back to an earlier version.
 <!-- The text under each "## vX" heading is what the app shows under "What's new" for that version.
      This file is copied to the releases repository by the build when a version is published. -->
 
+## v0.1.25
+
+### New
+- **New groups on the Links tab:** "+ New group" next to "+ Add link" makes a group of your own. It stays even while it's empty, with a spot to drag links into.
+- **Delete a group on the Links tab:** in Edit mode each group has "Delete group". If it has links, the button says how many and they go too; Undo puts everything back.
+
+### Improved
+- **Pick the group when adding a link:** the link form has a list of your groups, with "+ New group…" to make one on the spot. In Edit mode each group also has its own "+ Add link".
+
 ## v0.1.24
 
 ### New
