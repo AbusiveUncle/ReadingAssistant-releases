@@ -7,6 +7,15 @@ an installer for a new PC or to go back to an earlier version.
 <!-- The text under each "## vX" heading is what the app shows under "What's new" for that version.
      This file is copied to the releases repository by the build when a version is published. -->
 
+## v0.1.26
+
+### New
+- **Several papers open at once:** the reader has tabs, like a browser. Each paper you open gets a tab, and clicking a tab brings that paper back at its own page and zoom. "← Back" keeps your tabs; × (or a middle-click) closes one.
+- **Delete a group or subgroup with papers in it:** every group and subgroup has a Delete button. If it has papers, you choose: move them to another tab, group or subgroup, or take them off the list (the files stay on your PC). Undo puts everything back.
+- **Subgroups inside subgroups:** every subgroup has its own "+ Subgroup", as deep as you like. Drag a subgroup into another one to move it there with its papers. Folders inside folders now become deeper subgroups too.
+- **Give jumbled PDFs their real name:** when a paper's reference has been found from its DOI, Details shows "Rename file", turning "1-s2.0-S2040…-main.pdf" into "Isogai et al. - 2011 - TEMPO-oxidized cellulose nanofibers.pdf" in the same folder. Notes, highlights and status stay with the paper, and Undo gives the file its old name back.
+- **Claude can rename files too:** with "Allow Claude to change things" on, Claude can give PDFs their reference's name (it has its own switch in Settings → Claude). Install the Claude extension once more after this update so Claude Desktop knows the new tool.
+
 ## v0.1.25
 
 ### New
